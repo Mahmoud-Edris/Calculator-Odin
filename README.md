@@ -22,4 +22,7 @@ I made this project to fully apply what i have learned in foundations path in **
 
 - Organize and Clean code / instead of "if / else"
 - Make It Really Professional
-  [Live Demo](https://calculator-odin-rho.vercel.app/)
+
+## Here The Live Demo
+
+[https://calculator-odin-rho.vercel.app/](https://calculator-odin-rho.vercel.app/)
