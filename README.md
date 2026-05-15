@@ -16,8 +16,8 @@ I made this project to fully apply what i have learned in foundations path in **
 - HTML
 - CSS
 - JavaScript
-  **Note:** _This Calculator Stills Version 1_
 
+### This calculator stills version 1
 ## To-Do
 
 - Organize and Clean code / instead of "if / else"
